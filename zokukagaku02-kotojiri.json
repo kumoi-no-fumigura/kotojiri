@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kotojiri",
  "yomi": "ことじりしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "文化6年（1809）9月跋",
+  "author": "村田春海（1746〜1811）",
+  "desc": "江戸派の歌人・国学者村田春海の家集。漢文の序は、春海の文章を唐宋八家の文にたとえる。文詞の部はここに収めない。"
+ },
  "editions": [
   {
    "pid": "993380",
